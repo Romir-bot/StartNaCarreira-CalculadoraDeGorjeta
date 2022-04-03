@@ -1,0 +1,2 @@
+function alculateTip(event) {
+}
